@@ -1,0 +1,14 @@
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\bin\Debug\netcoreapp3.1\AbstractClass Demo.exe
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\bin\Debug\netcoreapp3.1\AbstractClass Demo.deps.json
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\bin\Debug\netcoreapp3.1\AbstractClass Demo.runtimeconfig.json
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\bin\Debug\netcoreapp3.1\AbstractClass Demo.runtimeconfig.dev.json
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\bin\Debug\netcoreapp3.1\AbstractClass Demo.dll
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\bin\Debug\netcoreapp3.1\AbstractClass Demo.pdb
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.csproj.AssemblyReference.cache
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.AssemblyInfoInputs.cache
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.AssemblyInfo.cs
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.csproj.CoreCompileInputs.cache
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.dll
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.pdb
+H:\Hexa Jan 30\CSharp demos\IsARelationshipdemo\AbstractClass Demo\obj\Debug\netcoreapp3.1\AbstractClass Demo.genruntimeconfig.cache
