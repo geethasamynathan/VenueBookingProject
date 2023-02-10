@@ -65,3 +65,7 @@ uname varchar(50),
 paytype varchar(50),
 details varchar(50))
 
+
+
+-- Add some more table
+--give the relationship between the tables
